@@ -1,0 +1,8 @@
+E:\Dotnet\Phase2\Assignments\Assignment9\Assignment9\bin\Debug\Assignment9.exe.config
+E:\Dotnet\Phase2\Assignments\Assignment9\Assignment9\bin\Debug\Assignment9.exe
+E:\Dotnet\Phase2\Assignments\Assignment9\Assignment9\bin\Debug\Assignment9.pdb
+E:\Dotnet\Phase2\Assignments\Assignment9\Assignment9\obj\Debug\Assignment9.csproj.AssemblyReference.cache
+E:\Dotnet\Phase2\Assignments\Assignment9\Assignment9\obj\Debug\Assignment9.csproj.SuggestedBindingRedirects.cache
+E:\Dotnet\Phase2\Assignments\Assignment9\Assignment9\obj\Debug\Assignment9.csproj.CoreCompileInputs.cache
+E:\Dotnet\Phase2\Assignments\Assignment9\Assignment9\obj\Debug\Assignment9.exe
+E:\Dotnet\Phase2\Assignments\Assignment9\Assignment9\obj\Debug\Assignment9.pdb
